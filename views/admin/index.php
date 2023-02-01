@@ -10,7 +10,7 @@ use yii\grid\GridView;
 /** @var app\models\UserSearch $searchModel */
 /** @var yii\data\ActiveDataProvider $dataProvider */
 
-$this->title = 'Административная панель';
+$this->title = 'Административная Панель';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="user-b-index">
